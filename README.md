@@ -21,8 +21,9 @@
     
 Program return .csv  file with outputs times.
 
-Example (Balanced Tree)
+Example (Balanced Tree) 
 - Before remove: 
+![image](https://user-images.githubusercontent.com/30668073/60334878-d3ddff00-999c-11e9-9052-6c5c24eb222f.png)
 ``` 
 {
     "Value":2,
@@ -43,6 +44,8 @@ Example (Balanced Tree)
 } 
 ```
 - After remove 1:
+![image](https://user-images.githubusercontent.com/30668073/60334953-04be3400-999d-11e9-9563-dc89dd13d6eb.png)
+
 ```
 {
     "Value":2,
