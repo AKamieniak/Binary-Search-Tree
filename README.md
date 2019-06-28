@@ -11,7 +11,6 @@
         - ```GetJson()```
 - implementation of Balanced BinarySearchTree (DSW) based on BinarySearchTree algorithm
     - help methods:    
-        - ```CreateBalancedTree()```,
         - ```CreateBackbone()```, 
         - ```LeftRotate(Node<T> parent)```, 
         - ```RightRotate(Node<T> parent)```
