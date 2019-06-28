@@ -42,5 +42,20 @@ Example (Balanced Tree)
         }
 } 
 ```
-
+- After remove:
+```
+{
+    "Value":2,
+    "LeftChild":{
+        "Value":0,
+        "LeftChild":null,
+        "RightChild":null
+        },
+    "RightChild":{
+        "Value":3,
+        "LeftChild":null,
+        "RightChild":null
+        }
+}
+```
 
