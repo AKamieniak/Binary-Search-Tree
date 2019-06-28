@@ -23,7 +23,8 @@ Program return .csv  file with outputs times.
 
 Example (Balanced Tree)
 - Before remove: 
-``` {
+``` 
+{
     "Value":2,
     "LeftChild":{
         "Value":1,
@@ -39,6 +40,7 @@ Example (Balanced Tree)
         "LeftChild":null,
         "RightChild":null
         }
-} ```
+} 
+```
 
 
