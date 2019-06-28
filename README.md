@@ -18,5 +18,6 @@
     - regular generic list, 
     - Binary Search Tree, 
     - Balanced Tree.
+    
 Program return .csv  file with outputs times.
 
