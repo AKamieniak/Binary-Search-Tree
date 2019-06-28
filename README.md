@@ -21,7 +21,7 @@
     
 Program return .csv  file with outputs times.
 
-Example (Balanced Tree) 
+### Simple example of Balanced Tree with 4 nodes:
 - Before remove: 
 
 ![image](https://user-images.githubusercontent.com/30668073/60334878-d3ddff00-999c-11e9-9052-6c5c24eb222f.png)
