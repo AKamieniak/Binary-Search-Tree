@@ -21,3 +21,24 @@
     
 Program return .csv  file with outputs times.
 
+Example (Balanced Tree)
+- Before remove: 
+``` {
+    "Value":2,
+    "LeftChild":{
+        "Value":1,
+        "LeftChild":{
+            "Value":0,
+            "LeftChild":null,
+            "RightChild":null
+            },
+        "RightChild":null
+        },
+    "RightChild":{
+        "Value":3,
+        "LeftChild":null,
+        "RightChild":null
+        }
+} ```
+
+
