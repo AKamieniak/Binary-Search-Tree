@@ -42,7 +42,7 @@ Example (Balanced Tree)
         }
 } 
 ```
-- After remove:
+- After remove 1:
 ```
 {
     "Value":2,
