@@ -44,7 +44,7 @@ Example (Balanced Tree)
 } 
 ```
 - After remove 1:
-![image](https://user-images.githubusercontent.com/30668073/60334953-04be3400-999d-11e9-9563-dc89dd13d6eb.png)
+![image](https://user-images.githubusercontent.com/30668073/60335020-21f30280-999d-11e9-8c8b-8b4e34e2b940.png)
 
 ```
 {
